@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Rblips/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Rblips/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Rblips/leetcode/tree/master/0189-rotate-array) |
+| [3870-count-commas-in-range](https://github.com/Rblips/leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rblips/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Rblips/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Array
