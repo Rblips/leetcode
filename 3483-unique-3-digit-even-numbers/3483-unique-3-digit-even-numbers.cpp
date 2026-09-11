@@ -1,0 +1,36 @@
+class Solution {
+public:
+    int totalNumbers(vector<int>& digits) {
+        int freq[10] = {};
+
+        for (int d : digits)
+            freq[d]++;
+
+        int count = 0;
+
+        for (int first = 1; first <= 9; first++) {
+            if (freq[first] == 0)
+                continue;
+
+            freq[first]--;
+
+            for (int second = 0; second <= 9; second++) {
+                if (freq[second] == 0)
+                    continue;
+
+                freq[second]--;
+
+                for (int last = 0; last <= 8; last += 2) {
+                    if (freq[last] > 0)
+                        count++;
+                }
+
+                freq[second]++;
+            }
+
+            freq[first]++;
+        }
+
+        return count;
+    }
+};
