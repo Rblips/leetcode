@@ -50,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rblips/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rblips/leetcode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rblips/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rblips/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rblips/leetcode/tree/master/0011-container-with-most-water) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rblips/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rblips/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Rblips/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rblips/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rblips/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rblips/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## String
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rblips/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
