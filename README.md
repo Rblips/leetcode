@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rblips/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Rblips/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Rblips/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Rblips/leetcode/tree/master/0189-rotate-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rblips/leetcode/tree/master/0002-add-two-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rblips/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rblips/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Rblips/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
